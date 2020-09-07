@@ -1,1 +1,1 @@
-# profile-card-practice
+# Learn how to create a profile card using HTML and CSS
